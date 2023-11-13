@@ -37,4 +37,7 @@ This JavaScript script is designed for use on WhatsApp Web for the purpose of se
 ## Conclusion
 This script is a fun tool for surprising your friends with a burst of unexpected messages. Use it wisely and enjoy the laughter, always remembering to respect others.
 
+## Credits
+Matt Fontes
+https://github.com/Matt-Fontes
 ---

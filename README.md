@@ -1,6 +1,6 @@
 
 
-# WhatsApp Web Script for Pranking Friends
+# WhatsApp Web Script for Pranking Friends with Pinocchio History
 ---
 ## Description
 This JavaScript script is designed for use on WhatsApp Web for the purpose of sending automated messages in an open conversation. It's an entertainment tool meant for playfully pranking friends in a friendly and responsible manner. Please use it thoughtfully and only with people who can appreciate the joke.
